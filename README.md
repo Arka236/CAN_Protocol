@@ -106,4 +106,4 @@ To reproduce these findings:
 1. Install [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
 2. Clone this repository: 
    ```bash
-   git clone [https://github.com/YourUsername/CAN-Bus-Signal-Integrity.git](https://github.com/YourUsername/CAN-Bus-Signal-Integrity.git)
+   git clone [https://github.com/Arka236/CAN-Bus-Signal-Integrity.git](https://github.com/YourUsername/CAN-Bus-Signal-Integrity.git)
